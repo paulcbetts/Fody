@@ -86,3 +86,5 @@ For supplying a build server
 http://codebetter.com/
 
 ![CodeBetter.png](https://raw.github.com/wiki/SimonCropp/Fody/CodeBetter.png)
+
+Ignore this
